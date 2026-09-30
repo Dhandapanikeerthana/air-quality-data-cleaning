@@ -57,22 +57,23 @@ The project includes:
 
 ## Visualizations
 
+
+
 ### Carbon Monoxide Distribution
 
-![CO Distribution](screenshots/co_distribution.png)
+![CO Distribution](screenshots/co_distribution.png.png)
 
 ### Nitrogen Oxides Distribution
 
-![NOx Distribution](screenshots/nox_distribution.png)
+![NOx Distribution](screenshots/nox_distribution.png.png)
 
 ### Temperature Distribution
 
-![Temperature Distribution](screenshots/temperature_distribution.png)
+![Temperature Distribution](screenshots/temperature_distribution.png.png)
 
 ### Correlation Matrix
 
-![Correlation Matrix](screenshots/correlation_matrix.png)
-
+![Correlation Matrix](screenshots/correlation_matrix.png.png)
 ## Outcome
 
 The project demonstrates a complete data-cleaning workflow from raw data acquisition to a cleaned dataset ready for further analysis or machine-learning applications.
